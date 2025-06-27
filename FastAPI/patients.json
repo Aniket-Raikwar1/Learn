@@ -1,0 +1,112 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Rohit Sharma",
+    "city": "Mumbai",
+    "age": 35,
+    "gender": "Male",
+    "height_cm": 175,
+    "weight_kg": 78,
+    "bmi": 25.5,
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Anjali Mehta",
+    "city": "Delhi",
+    "age": 29,
+    "gender": "Female",
+    "height_cm": 160,
+    "weight_kg": 85,
+    "bmi": 33.2,
+    "verdict": "Obese"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Vikram Bansal",
+    "city": "Bangalore",
+    "age": 42,
+    "gender": "Male",
+    "height_cm": 168,
+    "weight_kg": 95,
+    "bmi": 33.6,
+    "verdict": "Obese"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Nidhi Verma",
+    "city": "Lucknow",
+    "age": 24,
+    "gender": "Female",
+    "height_cm": 158,
+    "weight_kg": 48,
+    "bmi": 19.2,
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Aman Singh",
+    "city": "Chandigarh",
+    "age": 37,
+    "gender": "Male",
+    "height_cm": 180,
+    "weight_kg": 105,
+    "bmi": 32.4,
+    "verdict": "Obese"
+  },
+  {
+    "patient_id": "P006",
+    "name": "Sneha Das",
+    "city": "Kolkata",
+    "age": 31,
+    "gender": "Female",
+    "height_cm": 155,
+    "weight_kg": 58,
+    "bmi": 24.1,
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P007",
+    "name": "Arjun Malhotra",
+    "city": "Hyderabad",
+    "age": 28,
+    "gender": "Male",
+    "height_cm": 172,
+    "weight_kg": 65,
+    "bmi": 21.9,
+    "verdict": "Healthy"
+  },
+  {
+    "patient_id": "P008",
+    "name": "Meera Iyer",
+    "city": "Chennai",
+    "age": 40,
+    "gender": "Female",
+    "height_cm": 165,
+    "weight_kg": 72,
+    "bmi": 26.4,
+    "verdict": "Overweight"
+  },
+  {
+    "patient_id": "P009",
+    "name": "Dev Patel",
+    "city": "Ahmedabad",
+    "age": 33,
+    "gender": "Male",
+    "height_cm": 178,
+    "weight_kg": 84,
+    "bmi": 26.5,
+    "verdict": "Overweight"
+  },
+  {
+    "patient_id": "P010",
+    "name": "Kritika Roy",
+    "city": "Pune",
+    "age": 26,
+    "gender": "Female",
+    "height_cm": 162,
+    "weight_kg": 54,
+    "bmi": 20.6,
+    "verdict": "Healthy"
+  }
+]
